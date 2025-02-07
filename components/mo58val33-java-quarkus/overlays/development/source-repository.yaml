@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mo58val33-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mo58val33-java-quarkus
